@@ -22,5 +22,17 @@
     "anio_publicacion": 2021,
     "isbn": "978-3-16-148410-0",
     "disponible": true
+  },
+  {
+    "id": 3,
+    "titulo": "Metodologías Ágiles para el Desarrollo de Software",
+    "tipo": "Capítulo de libro",
+    "tema": "Ingeniería de Software",
+    "nivel": "Grado (Undergraduate)",
+    "autor": "Dra. Sofía Martínez",
+    "fuente": "Avances en Ingeniería de Software",
+    "anio_publicacion": 2022,
+    "isbn": "978-0-12-345678-9",
+    "disponible": true
   }
 ]
