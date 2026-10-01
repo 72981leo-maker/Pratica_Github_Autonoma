@@ -1,0 +1,2 @@
+1. ¿Qué ventaja tiene registrar las dependencias del proyecto en requirements.txt en lugar de compartir la carpeta .venv?
+R=Compatibilidad de sistemas operativo,contiene ejecutables binarios, rutas absolutas en el disco duro y enlaces simbolicos espeficos en el sistema operativo

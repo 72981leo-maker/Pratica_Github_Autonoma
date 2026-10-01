@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Deep Learning en la Visión por Computadora: Principios y Aplicaciones",
+    "tipo": "Artículo de revista",
+    "tema": "Inteligencia Artificial",
+    "nivel": "Posgrado e Investigación",
+    "autor": "Dra. Elena Rostova",
+    "fuente": "Journal of Advanced Computer Science",
+    "anio_publicacion": 2023,
+    "doi": "10.1016/j.jacs.2023.04.012",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "titulo": "Estructuras de Datos y Algoritmos en Python",
+    "tipo": "Libro de texto",
+    "tema": "Ciencia de la Computación",
+    "nivel": "Grado (Undergraduate)",
+    "autor": "Dr. Carlos Eduardo Gómez",
+    "fuente": "Editorial Académica Universitaria",
+    "anio_publicacion": 2021,
+    "isbn": "978-3-16-148410-0",
+    "disponible": true
+  }
+]
