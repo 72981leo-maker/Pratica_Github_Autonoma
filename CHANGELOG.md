@@ -18,4 +18,5 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1
 * **Documentación:**
   * Archivo `README.md` con la descripción del proyecto, requisitos e instrucciones de instalación.
   * Archivo `docs/alcance.md` detallando la hoja de ruta y funcionalidades de la versión 2.0.
+  * Incorporación de documentación adicional en `docs/criterios.md` y `docs/respuestas.md` para ampliar la guía de trabajo y las respuestas esperadas.
 * **Datos iniciales:** Archivo `data/recursos.json` con registros de ejemplo para la clasificación de recursos académicos.
